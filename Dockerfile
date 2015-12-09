@@ -1,4 +1,4 @@
-FROM tomcat:8-jre8
+FROM tomcat:latest
 
 RUN apt-get update
 

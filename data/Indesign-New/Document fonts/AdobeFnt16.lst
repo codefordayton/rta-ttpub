@@ -1,0 +1,728 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14151
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:15445
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue UltraLight
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:8110
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue UltraLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:18772
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Light
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:20609
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:100
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue UltraLight Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:24685
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue UltraLight Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Black
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:28134
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Condensed Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:30606
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Condensed Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Bold Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:12888
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Bold Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Light Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:13514
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Light Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14242
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14243
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Thin Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14244
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Thin Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.dfont
+DataFormat:sfntResource
+ResourceID:14245
+FileLength:5137539
+FileModTime:1394620274
+NameArray:0,Mac,4,Helvetica Neue Medium Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Bold
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:1
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Italic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:2
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-BoldItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4684
+MacStyle:3
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-CondensedBold
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4685
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-UltraLight
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4688
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-UltraLightItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4688
+MacStyle:2
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Light
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4846
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-LightItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4846
+MacStyle:2
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-CondensedBlack
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4889
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Medium
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:128
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-MediumItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:128
+MacStyle:2
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Thin
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4848
+MacStyle:0
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-ThinItalic
+OutlineFileName:\HelveticaNeue.dfont
+ResourceID:4848
+MacStyle:2
+FileLength:5137539
+FileModTime:1394620274
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 75 Bold
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28240
+FileModTime:1052770664
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue LT Std 77 Bold Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-BdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29268
+FileModTime:1052763462
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed Oblique
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Helvetica Neue LT Std 77 Bold Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-BdCnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30432
+FileModTime:1052763462
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdIt
+FamilyName:Helvetica Neue LT Std
+StyleName:76 Bold Italic
+MenuName:HelveticaNeueLT Std
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Std 76 Bold Italic
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-BdIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28712
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 76 Bold Italic
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Blk
+FamilyName:Helvetica Neue LT Std
+StyleName:95 Black
+MenuName:HelveticaNeueLT Std Blk
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 95 Black
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Blk.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29700
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk
+NameArray:0,Mac,4,Helvetica Neue LT Std 95 Black
+NameArray:0,Win,1,HelveticaNeueLT Std Blk
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkCn
+FamilyName:Helvetica Neue LT Std
+StyleName:97 Black Condensed
+MenuName:HelveticaNeueLT Std Blk Cn
+StyleBits:0
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue LT Std 97 Black Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-BlkCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29984
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 97 Black Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Blk Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Cn
+FamilyName:Helvetica Neue LT Std
+StyleName:57 Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue LT Std 57 Condensed
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Cn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28628
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 57 Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-CnO
+FamilyName:Helvetica Neue LT Std
+StyleName:57 Condensed Oblique
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Helvetica Neue LT Std 57 Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-CnO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29828
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 57 Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Hv
+FamilyName:Helvetica Neue LT Std
+StyleName:85 Heavy
+MenuName:HelveticaNeueLT Std Med
+StyleBits:2
+WeightClass:750
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 85 Heavy
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Hv.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29092
+FileModTime:1052763463
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy
+NameArray:0,Mac,4,Helvetica Neue LT Std 85 Heavy
+NameArray:0,Win,1,HelveticaNeueLT Std Med
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27476
+FileModTime:1055417174
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Th
+FamilyName:Helvetica Neue LT Std
+StyleName:35 Thin
+MenuName:HelveticaNeueLT Std Thin
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 35 Thin
+WritingScript:Roman
+OutlineFileName:\HelveticaNeueLTStd-Th.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28124
+FileModTime:1052763464
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin
+NameArray:0,Mac,4,Helvetica Neue LT Std 35 Thin
+NameArray:0,Win,1,HelveticaNeueLT Std Thin
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
