@@ -11,6 +11,7 @@ COPY tomcat/ttpub.zip $CATALINA_HOME/webapps/ROOT
 RUN cd $CATALINA_HOME/webapps/ROOT && unzip ttpub.zip
 
 # Copy GTFS data into schedule folder
+RUN cd $CATALINA_HOME/webapps/ROOT/WEB-INF/classes/org/gtfs/schedule/ && rm -rf *
 COPY data/rtagtfs $CATALINA_HOME/webapps/ROOT/WEB-INF/classes/org/gtfs/schedule/dayton
 
 
